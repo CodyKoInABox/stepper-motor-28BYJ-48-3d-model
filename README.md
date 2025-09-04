@@ -1,2 +1,4 @@
-# stepper-motor-28BYJ-48-3d-model
-3D Model of the 28BYJ-48 Stepper Motor
+# 3D Model of the 28BYJ-48 Stepper Motor
+
+### Aproximate measures and shapes.
+### FBX file is in CM, convert to MM for real life size.
